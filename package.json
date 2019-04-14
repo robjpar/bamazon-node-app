@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-node-app",
+  "version": "1.0.0",
+  "description": "CLI storefront with MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robjpar/bamazon-node-app.git"
+  },
+  "author": "R.J.P.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robjpar/bamazon-node-app/issues"
+  },
+  "homepage": "https://github.com/robjpar/bamazon-node-app#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
