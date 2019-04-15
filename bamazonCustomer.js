@@ -10,7 +10,7 @@ const connectionConfig = {
   port: process.env.PORT,
   user: process.env.USER,
   password: process.env.PASSWORD,
-  database: process.env.DATABASE,
+  database: 'bamazon',
 };
 
 const mysqlConnection = mysql.createConnection(connectionConfig);
