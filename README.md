@@ -10,15 +10,15 @@ Requires `Node.js` and access to a MyQSL server. Clone the repository to a local
 
 ```txt
 # MySQL Connection Configuration
-HOST=-your-host
+HOST=your-host
 PORT=your-port
 USER=your-username
 PASSWORD=your-password
 ```
 
-## 1. Customer View &ndash; placing an order
+## 1. Customer View
 
-Start the program with `node bamazonCustomer.js` and follow the on-screen instructions. An example of a typical ordering process is shown below.
+This module allows the user to place an order. Start the program with `node bamazonCustomer.js` and follow the on-screen instructions. An example of a typical ordering process is shown below.
 
 ![customer-view](images/customer-view.gif "Customer View")
 
