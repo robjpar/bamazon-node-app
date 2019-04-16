@@ -28,4 +28,3 @@ This module allows the manager to browse and manage the inventory. Start the pro
 
 ![manager-view](images/manager-view.gif "Manager View")
 
-## 3. Supervisor View
