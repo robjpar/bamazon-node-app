@@ -18,13 +18,18 @@ PASSWORD=your-password
 
 ## 1. Customer View
 
-This module allows the user to browse the inventory and place an order. Start the program with `node bamazonCustomer.js` and follow the on-screen instructions. An example of a typical session is shown below.
+This module allows the customer to browse inventory and place an order. Start the program with `node bamazonCustomer.js` and follow the on-screen instructions. An example of a typical session is shown below.
 
 ![customer-view](images/customer-view.gif "Customer View")
 
 ## 2. Manager View
 
-This module allows the manager to browse and manage the inventory. Start the program with `node bamazonManager.js` and follow the on-screen instructions. An example of a typical session is shown below.
+This module allows the manager to browse and manage inventory. Start the program with `node bamazonManager.js` and follow the on-screen instructions. An example of a typical session is shown below.
 
 ![manager-view](images/manager-view.gif "Manager View")
 
+## 3. Supervisor View
+
+This module allows the supervisor to manage departments and view product sales by department. Start the program with `node bamazonSupervisor.js` and follow the on-screen instructions. An example of a typical session is shown below.
+
+![supervisor-view](images/supervisor-view.gif "Supervisor View")
